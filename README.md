@@ -1,69 +1,97 @@
-# 💫 About Me:
-- 🎓 I'm currently pursuing Engineering in Computer Science.  
-- 🌱 I'm looking to gain more knowledge in technology.  
-- 🤝 I want to contribute to the tech community.
+# 👋 Hello, I'm Haresh Musapnara
+
+A passionate Computer Science Engineering student with expertise in web development and a keen interest in building innovative solutions.
+
+---
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-harinhhd1143@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harinhhd1143@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+
+
+## 🚀 About Me
+
+- 🎓 4th year Computer Science Engineering student at Adichunchanagiri Institute of Technology
+- 💻 Passionate about Web Development and Cloud Security
+- 🌱 Currently learning advanced React.js and backend development
+- 👯 Looking to collaborate on innovative web projects
+- 📫 How to reach me: harinhhd1143@gmail.com
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hareesh-2a481928b)
+## 🛠️ Technical Skills
+
+**Languages:** 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Libraries:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**Databases & Cloud:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=flat&logo=java&logoColor=white)
+## 💼 Projects
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-%232F9FD7.svg?style=flat&logo=pythonanywhere&logoColor=151515)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
+### 🏫 School Management System
+A React-based system for managing school operations including student registration, class scheduling, attendance tracking, and grade management.
 
-![Context API](https://img.shields.io/badge/Context--API-000000?style=flat&logo=react)
-![Deno JS](https://img.shields.io/badge/Deno-000000?style=flat&logo=deno&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-%23CF4647.svg?style=flat&logo=gulp&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![WindiCSS](https://img.shields.io/badge/WindiCSS-48B0F1.svg?style=flat&logo=windi-css&logoColor=white)
+**Tech Stack:** React.js, JavaScript, HTML, CSS, Bootstrap
 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white)
-![Lightroom Classic](https://img.shields.io/badge/Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+### 🌤️ Real-time Weather App
+A responsive web application that provides real-time weather information based on user location or input.
 
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+**Tech Stack:** React.js, Firebase, Bootstrap, HTML
 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
+### 🦠 COVID-19 Tracker
+Tracks worldwide COVID-19 cases with daily and weekly updated statistics using Google Maps and live API data.
+
+**Tech Stack:** JavaScript, CSS, HTML, API Integration
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harinhhdl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=harinhhdl&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harinhhdl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📜 Certifications
+
+- **Project Development Using Java** - Udemy (May-June 2024)
+- **Campus Ambassador** - Biblii (March-April 2025)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 GitHub Stats
+
+![Haresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harinhhdl&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌟 Soft Skills
+
+- Problem Solving
+- Self-learning
+- Presentation
+- Adaptability
+- Team Collaboration
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=harinhhdl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+⭐️ From [Haresh Musapnara](https://github.com/your-username)
