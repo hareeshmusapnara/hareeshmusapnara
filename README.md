@@ -1,97 +1,36 @@
-# 👋 Hello, I'm Haresh Musapnara
+<h1 align="center">Hi 👋, I'm Hareesh Musapnara</h1>
+<h3 align="center">A passionate full Stack and Mobile developer from India</h3>
 
-A passionate Computer Science Engineering student with expertise in web development and a keen interest in building innovative solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hareeshmusapnara&label=Profile%20views&color=0e75b6&style=flat" alt="hareeshmusapnara" /> </p>
 
----
-## 📫 Connect With Me
+- 🔭 I’m currently working on **React-native**
 
-[![Email](https://img.shields.io/badge/Email-harinhhd1143@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harinhhd1143@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+- 🌱 I’m currently learning **React-native,Next.js,Django**
 
+- 👯 I’m looking to collaborate on **Projects**
 
-## 🚀 About Me
+- 🤝 I’m looking for help with **Learn New Technologies**
 
-- 🎓 4th year Computer Science Engineering student at Adichunchanagiri Institute of Technology
-- 💻 Passionate about Web Development and Cloud Security
-- 🌱 Currently learning advanced React.js and backend development
-- 👯 Looking to collaborate on innovative web projects
-- 📫 How to reach me: harinhhd1143@gmail.com
+- 👨‍💻 All of my projects are available at [https://haresh-portfolio-forge.lovable.app](https://haresh-portfolio-forge.lovable.app)
 
----
+- 💬 Ask me about **raect,full Stack development**
 
-## 🛠️ Technical Skills
+- 📫 How to reach me **harinhhdl143@gmail.com**
 
-**Languages:** 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-hareesh-2a481928b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bgiipxp5yqzk4hqa9vnb41q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-hareesh-2a481928b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bgiipxp5yqzk4hqa9vnb41q%3d%3d" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/vc6pz2dps0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vc6pz2dps0/" height="30" width="40" /></a>
+</p>
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-**Databases & Cloud:**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/@harishm00007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@harishm00007" /></a></p><br><br>
 
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hareeshmusapnara&show_icons=true&locale=en&layout=compact" alt="hareeshmusapnara" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hareeshmusapnara&show_icons=true&locale=en" alt="hareeshmusapnara" /></p>
 
-## 💼 Projects
-
-### 🏫 School Management System
-A React-based system for managing school operations including student registration, class scheduling, attendance tracking, and grade management.
-
-**Tech Stack:** React.js, JavaScript, HTML, CSS, Bootstrap
-
-### 🌤️ Real-time Weather App
-A responsive web application that provides real-time weather information based on user location or input.
-
-**Tech Stack:** React.js, Firebase, Bootstrap, HTML
-
-### 🦠 COVID-19 Tracker
-Tracks worldwide COVID-19 cases with daily and weekly updated statistics using Google Maps and live API data.
-
-**Tech Stack:** JavaScript, CSS, HTML, API Integration
-
----
-
-## 📜 Certifications
-
-- **Project Development Using Java** - Udemy (May-June 2024)
-- **Campus Ambassador** - Biblii (March-April 2025)
-
----
-
-## 📈 GitHub Stats
-
-![Haresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
-## 🌟 Soft Skills
-
-- Problem Solving
-- Self-learning
-- Presentation
-- Adaptability
-- Team Collaboration
-
----
-
-
----
-
-⭐️ From [Haresh Musapnara](https://github.com/your-username)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hareeshmusapnara&" alt="hareeshmusapnara" /></p>
